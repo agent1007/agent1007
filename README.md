@@ -1,16 +1,22 @@
-### Hi there 👋
+# Привет✌! Меня зовут Павел.
 
-<!--
-**agent1007/agent1007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+До недавнего времени код для меня был чем-то из ряда фантастики. 
+И поэтому я решил заглянуть за кулисы и начал кодить.
+Думал, что буду учиться для разнообразия. Но чем больше вникал, тем больше меня это затягивало.
+Теперь я начинающий веб-разработчик. И моя цель - больше знаний, больше опыта. БОЛЬШЕ КОДА.
 
-Here are some ideas to get you started:
+## Мой стек
+- HTML5
+- CSS3 (Flex, Transform, Animate)
+- JavaScript;
+- БЭМ-методология;
+- Владение графическими редакторами AdobePhotoshop, Figma;
+- Знание и понимание блочной адаптивной (резиновой) и кроссбраузерной верстки;
+- MongoDB
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Social
+[<img align="left" width="22px" alt="javeoff | Telegram" src="https://simpleicons.org/icons/telegram.svg" />](https://t.me/agent1177)
+[<img align="left" width="22px" alt="javeoff | VK" src="https://simpleicons.org/icons/vk.svg" />](https://vk.com/id106135958)
+[<img align="left" width="22px" alt="javeoff | Instagram" src="https://simpleicons.org/icons/instagram.svg" />](https://www.instagram.com/agent_cherkasov/)
